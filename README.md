@@ -1,4 +1,20 @@
-# Structure-clustering Skill: private cloud acceptance
+# Codex 结构聚类 Skill
+
+本仓库保持私有。当前交付版本为 **v0.1.0**，用于已有结构和评分数据的 TM-score 聚类、代表结构选取和三类雨云图。
+
+## 使用自己的数据
+
+- 从 [v0.1.0 使用入口](delivery/v0.1.0/README.md) 开始。
+- 先看 [安装与卸载](delivery/v0.1.0/INSTALL.md)，再填写 [使用前配置清单](delivery/v0.1.0/使用前配置清单.md)。
+- 完整交付文件位于 `delivery/v0.1.0/`；项目内可发现的 Skill 位于 `.agents/skills/bindcraft-structure-clustering/`，两处正式 Skill 内容一致。
+- 默认阈值 **0.5**、主要簇至少 **5** 个成员、建议选取 **100** 个，均可配置。链 ID、命名映射、Average_dG 定义和选取容量需按自己的数据核对。
+- 验证及限制见 [VALIDATION.md](delivery/v0.1.0/VALIDATION.md)。本仓库测试样例仅用于技术验收，不是使用者的默认输入。
+
+私有仓库中的 v0.1.0 Release 提供独立 ZIP 及 SHA256 校验文件。未新增开源许可证，也未将仓库公开。测试目录与正式交付目录分开保留，研究结果不随本轮更新上传。
+
+---
+
+## Cloud acceptance workflow
 
 This is a **private test repository**, not a public release or an assignment of a new open-source license.
 

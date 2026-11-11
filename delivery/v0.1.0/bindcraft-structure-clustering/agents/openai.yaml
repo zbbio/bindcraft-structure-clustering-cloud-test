@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构聚类与结果分析"
+  short_description: "检查蛋白结构聚类输入、分析结果并辅助代表结构选取和可视化工作"
+  default_prompt: "使用 $bindcraft-structure-clustering，先检查我的输入和需求，再按要求进行聚类或后续分析。"

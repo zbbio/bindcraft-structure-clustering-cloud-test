@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "package": "bindcraft-structure-clustering-v0.1.0",
+  "version": "0.1.0",
+  "date": "2026-11-11",
+  "distribution": "private handoff; no new license granted",
+  "skill_files": 17,
+  "script_files": 7,
+  "files": {
+    "bindcraft-structure-clustering/agents/openai.yaml": {
+      "sha256": "b3f6a073b4f1ff1639acefec0d7e35fc03b85ee4bd1d2cb491c962c1ace7ae71",
+      "bytes": 312
+    },
+    "bindcraft-structure-clustering/references/commands.md": {
+      "sha256": "dd25ba79ce6627e2af3b8276df4c8300a00a0c521cd76dc0fc1e345608ca4b11",
+      "bytes": 7476
+    },
+    "bindcraft-structure-clustering/references/inputs-outputs.md": {
+      "sha256": "300ce0451b2705e0a726c9fadd861f145ebab1dc6d5c4eb3f6a8acf4177d7b34",
+      "bytes": 2170
+    },
+    "bindcraft-structure-clustering/references/methods.md": {
+      "sha256": "d6fbfb8bf8fd0d775d7858fe585b3f91c6295ec6eb5786bc27526a47f985f0fa",
+      "bytes": 1948
+    },
+    "bindcraft-structure-clustering/references/own-data.md": {
+      "sha256": "05c43bf2a892feee08b3fd061f5c7b8bf9951f04ad68707dbf343307584abbb6",
+      "bytes": 6231
+    },
+    "bindcraft-structure-clustering/references/provenance.md": {
+      "sha256": "dc1bdc7d0fdb51f52ff4a6ef6c76af711cd9cdec5e322401acc4e00aaf5dc38d",
+      "bytes": 2343
+    },
+    "bindcraft-structure-clustering/references/setup.md": {
+      "sha256": "4749f3ef9054d0850930b82792c3886e9bd1996bd841f403b77a2dc3cf8820a9",
+      "bytes": 3745
+    },
+    "bindcraft-structure-clustering/references/workflow.md": {
+      "sha256": "cb768e88a7c69456885ca5244d9b131c9fa30b91ee4f68b3df2d7ac254bc1a00",
+      "bytes": 3092
+    },
+    "bindcraft-structure-clustering/requirements.txt": {
+      "sha256": "61e0fd944c2b2fae71b76144cc6a54b89d41390fc3f67caf61eedb7c61fbf756",
+      "bytes": 175
+    },
+    "bindcraft-structure-clustering/scripts/output_guard.py": {
+      "sha256": "6f04953822bb721b90c59fb62cf7639570b64389608c0a0cc5978851f105a91e",
+      "bytes": 734
+    },
+    "bindcraft-structure-clustering/scripts/plot_all_clusters.py": {
+      "sha256": "ba403709981da6f55c8c1826ed1a6a13900122bf58bba12f1271905fd14042c4",
+      "bytes": 10780
+    },
+    "bindcraft-structure-clustering/scripts/plot_main_clusters.py": {
+      "sha256": "6ec8cfbc2d8dae82c18de5f2ee989b52cf2de9a57960d2436bfc349d7937bb6c",
+      "bytes": 10780
+    },
+    "bindcraft-structure-clustering/scripts/plot_selected_overlay.py": {
+      "sha256": "988864d14a02bf6b51e0675f53f4959df278f9f5a1145f49f5c40ade5653ec4e",
+      "bytes": 9246
+    },
+    "bindcraft-structure-clustering/scripts/select_representatives.py": {
+      "sha256": "81d5739473d6462f66ab9ebaae65fe517b9241341ab9c4401e76b8dec2cf3478",
+      "bytes": 9346
+    },
+    "bindcraft-structure-clustering/scripts/suggest_quota.py": {
+      "sha256": "5c682a299ec5c7d595dca3f456f9a0ca9ca31e2199f0e5766db574007b9c70f3",
+      "bytes": 3211
+    },
+    "bindcraft-structure-clustering/scripts/tmalign_clustering.py": {
+      "sha256": "a05cc9f1594303e588d1a1b8ccc384b08b87288accc1ccf01d1291ecdc49bf1a",
+      "bytes": 7457
+    },
+    "bindcraft-structure-clustering/SKILL.md": {
+      "sha256": "845a3e6bfd26a0e185b59ca56faa1aee3c82094814bcce7dd851382e6d8d4f0d",
+      "bytes": 3858
+    },
+    "INSTALL.md": {
+      "sha256": "548241bf52873df74c38bc99c9585f2655f5752c7de017e55590b26f045e1968",
+      "bytes": 3477
+    },
+    "README.md": {
+      "sha256": "cf2c550a06ee105055deb6e83fa66408683c604008571e32754de16c55fc2a84",
+      "bytes": 3865
+    },
+    "VALIDATION.md": {
+      "sha256": "16cd4e3b22931f01bdbc74aba71d2c08108265c762a526e5c1631277cb1a638a",
+      "bytes": 2573
+    },
+    "VERSION": {
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+      "bytes": 6
+    },
+    "使用前配置清单.md": {
+      "sha256": "d74fad3f8db23dfc2294e71880237e7157d831a79493bf036091f6209d25e4f4",
+      "bytes": 1841
+    }
+  },
+  "excludes_from_file_map": [
+    "MANIFEST.json",
+    "SHA256SUMS.txt"
+  ],
+  "source_skill": {
+    "agents/openai.yaml": {
+      "sha256": "b3f6a073b4f1ff1639acefec0d7e35fc03b85ee4bd1d2cb491c962c1ace7ae71",
+      "bytes": 312
+    },
+    "references/commands.md": {
+      "sha256": "dd25ba79ce6627e2af3b8276df4c8300a00a0c521cd76dc0fc1e345608ca4b11",
+      "bytes": 7476
+    },
+    "references/inputs-outputs.md": {
+      "sha256": "300ce0451b2705e0a726c9fadd861f145ebab1dc6d5c4eb3f6a8acf4177d7b34",
+      "bytes": 2170
+    },
+    "references/methods.md": {
+      "sha256": "d6fbfb8bf8fd0d775d7858fe585b3f91c6295ec6eb5786bc27526a47f985f0fa",
+      "bytes": 1948
+    },
+    "references/own-data.md": {
+      "sha256": "05c43bf2a892feee08b3fd061f5c7b8bf9951f04ad68707dbf343307584abbb6",
+      "bytes": 6231
+    },
+    "references/provenance.md": {
+      "sha256": "c6f08ad7acbf43c008f0740eb464de48721b6e481ce9f0bc2f35c76a4d503589",
+      "bytes": 1717
+    },
+    "references/setup.md": {
+      "sha256": "4749f3ef9054d0850930b82792c3886e9bd1996bd841f403b77a2dc3cf8820a9",
+      "bytes": 3745
+    },
+    "references/workflow.md": {
+      "sha256": "cb768e88a7c69456885ca5244d9b131c9fa30b91ee4f68b3df2d7ac254bc1a00",
+      "bytes": 3092
+    },
+    "requirements.txt": {
+      "sha256": "61e0fd944c2b2fae71b76144cc6a54b89d41390fc3f67caf61eedb7c61fbf756",
+      "bytes": 175
+    },
+    "scripts/output_guard.py": {
+      "sha256": "6f04953822bb721b90c59fb62cf7639570b64389608c0a0cc5978851f105a91e",
+      "bytes": 734
+    },
+    "scripts/plot_all_clusters.py": {
+      "sha256": "ba403709981da6f55c8c1826ed1a6a13900122bf58bba12f1271905fd14042c4",
+      "bytes": 10780
+    },
+    "scripts/plot_main_clusters.py": {
+      "sha256": "6ec8cfbc2d8dae82c18de5f2ee989b52cf2de9a57960d2436bfc349d7937bb6c",
+      "bytes": 10780
+    },
+    "scripts/plot_selected_overlay.py": {
+      "sha256": "988864d14a02bf6b51e0675f53f4959df278f9f5a1145f49f5c40ade5653ec4e",
+      "bytes": 9246
+    },
+    "scripts/select_representatives.py": {
+      "sha256": "81d5739473d6462f66ab9ebaae65fe517b9241341ab9c4401e76b8dec2cf3478",
+      "bytes": 9346
+    },
+    "scripts/suggest_quota.py": {
+      "sha256": "5c682a299ec5c7d595dca3f456f9a0ca9ca31e2199f0e5766db574007b9c70f3",
+      "bytes": 3211
+    },
+    "scripts/tmalign_clustering.py": {
+      "sha256": "a05cc9f1594303e588d1a1b8ccc384b08b87288accc1ccf01d1291ecdc49bf1a",
+      "bytes": 7457
+    },
+    "SKILL.md": {
+      "sha256": "845a3e6bfd26a0e185b59ca56faa1aee3c82094814bcce7dd851382e6d8d4f0d",
+      "bytes": 3858
+    }
+  },
+  "changes_to_source_skill": [
+    "references/provenance.md (documentation only)"
+  ]
+}
