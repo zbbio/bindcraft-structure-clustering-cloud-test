@@ -1,0 +1,10 @@
+.venv/
+.tools/
+results/
+__pycache__/
+*.pyc
+.env
+.env.*
+auth.json
+*.log
+*.zip

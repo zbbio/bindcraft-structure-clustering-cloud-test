@@ -1,0 +1,68 @@
+{
+  "notice": "Private minimal technical test fixtures, 9 supplied tutorial structures reduced to CA-only coordinates. No claim of a new independent biological dataset.",
+  "files": [
+    {
+      "file": "pdb/fresh001_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 365,
+      "original_sha256": "8dfbefacd2e1c976f2c2d6ef1c030a78b2a2597b9efa2976d74d0ca78ffce2fc",
+      "sha256": "d1830b26c8b5afb336e4d4ae8e962be1f8935d08f50a18dabb95bfba90cbb6d3"
+    },
+    {
+      "file": "pdb/fresh002_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 367,
+      "original_sha256": "52a85d04de5638d533278707b8dbbf24c8f9867dbfdc3db35e20ef27a0f3ea64",
+      "sha256": "c1cfa5006f400a4f0bbd6afede91eaf519f0fc8769ed568b571c305cb4bee017"
+    },
+    {
+      "file": "pdb/fresh003_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 369,
+      "original_sha256": "643bc2653c0d15cdbad002953ca2009956c6948404e6425b413142972a335f4c",
+      "sha256": "51b7f12fdedd1bb7270b624c712f0f9ddef232984660efac5bbf497df7865337"
+    },
+    {
+      "file": "pdb/fresh004_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 374,
+      "original_sha256": "ffcdfb532eb88a6dc3f398fcc217477456300b627d1d1aeb6a0b28a664e549ab",
+      "sha256": "a72b88bb61e857dfe16b3b0bb8d20795af2bd7362837a310d766ecfdb3f83778"
+    },
+    {
+      "file": "pdb/fresh005_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 376,
+      "original_sha256": "9adca8bfac89aa0edfa881d854e1449dae38c2632ca5a3cae488909199f20bfb",
+      "sha256": "98fad1edde138696492e5153b724ddd4a8b34a2464f4e72e5a04c3dc427b9e58"
+    },
+    {
+      "file": "pdb/fresh006_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 376,
+      "original_sha256": "f23995ae99feaebdf184bc5a0b03c755b296a5615fdf0f47ab5ee9a11c960671",
+      "sha256": "5db64288c09f113fc84d814016a29a08a4c7619f3c6145b7e12df5ecfe2620c7"
+    },
+    {
+      "file": "pdb/fresh007_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 377,
+      "original_sha256": "7550ed12e92a3f624074b3adc39695d43dfde6148b5985fad448fa5907773f2a",
+      "sha256": "a2ed429cc516fdfff2ffb222b5063e154fc81407b7b0f303cf2c33413323413f"
+    },
+    {
+      "file": "pdb/fresh008_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 377,
+      "original_sha256": "b1f4ef0584417e042e9d95dd8438ce78eac0b55acbc40412f12fbe919e352179",
+      "sha256": "c9090b7c5da262440f53df459e6611c4dadc0cd00b013f2a848df54946c17404"
+    },
+    {
+      "file": "pdb/fresh009_model1.pdb",
+      "fixture_type": "CA-only A/B chain coordinates derived from supplied tutorial copies; not original full-atom PDB",
+      "CA_atoms": 378,
+      "original_sha256": "01feac619b577cb19e4c7c6cec336410aa0f4908a3782d21d96bbb51681cfba0",
+      "sha256": "79054c03c73661cc8f8fd484408b92226984d1b411e92a4c7193879ea2fe9043"
+    }
+  ]
+}

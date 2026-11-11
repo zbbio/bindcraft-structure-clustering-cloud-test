@@ -1,0 +1,7 @@
+# Runtime dependencies. Use Python >=3.10 and an isolated environment.
+# Unpinned: this is not a tested lockfile for every platform.
+numpy
+pandas
+matplotlib
+scipy
+tqdm
